@@ -3,7 +3,6 @@
 
 **Course Date:** 23.03.2021  
 **Name:** Sarp 
-
 **Surname:** Somer  
 **Email:** @gmail.com  
 
